@@ -2,25 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href="https://foster.uw.edu/faculty-research/academic-departments/information-systems-and-operations-management/">Michael G. Foster School of Business</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ZZZ06855_square.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>DEM 203 A</p>
+    <p>4273 E Stevens Way NE</p>
+    <p>Seattle, WA 98195</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently pursuing my fourth year of doctoral studies in the Information Systems and Operations Management Department at the Michael G. Foster School of Business, University of Washington. I am fortunate to have the guidance of [Professor Yong Tan](https://foster.uw.edu/faculty-research/directory/yong-tan/) and [Professor Shi Chen](https://foster.uw.edu/faculty-research/directory/shi-chen/) in my research endeavors. My areas of interest include Retail Platforms, Online Reviews, Consumer Behaviors, and Crowdfunding.
+
+Before joining the Foster School of Business, I achieved a Master of Arts degree in Economics from Columbia University. Additionally, I hold Bachelor of Science degrees in both Mathematics and Economics from the University of Illinois at Urbana-Champaign.
+
+
+[curriculum vitae](https://https://mingruirayzhang.github.io//assets/pdf/Mingrui_Zhang_CV.pdf)
