@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-I am currently pursuing my fourth year of doctoral studies in the Information Systems and Operations Management Department at the Michael G. Foster School of Business, University of Washington. I am fortunate to have the guidance of [Professor Yong Tan](https://foster.uw.edu/faculty-research/directory/yong-tan/) and [Professor Shi Chen](https://foster.uw.edu/faculty-research/directory/shi-chen/) in my research endeavors. My areas of interest include Retail Platforms, Online Reviews, Consumer Behaviors, and Crowdfunding.
+Currently, I am in my fourth year of doctoral studies within the Information Systems and Operations Management Department at the Michael G. Foster School of Business, University of Washington. I am fortunate to have the guidance of [Professor Yong Tan](https://foster.uw.edu/faculty-research/directory/yong-tan/) and [Professor Shi Chen](https://foster.uw.edu/faculty-research/directory/shi-chen/) in my research endeavors. My areas of interest include Retail Platforms, Online Reviews, Consumer Behaviors, and Crowdfunding.
 
 Before joining the Foster School of Business, I achieved a Master of Arts degree in Economics from Columbia University. Additionally, I hold Bachelor of Science degrees in both Mathematics and Economics from the University of Illinois at Urbana-Champaign.
 
