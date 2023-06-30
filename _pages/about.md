@@ -26,4 +26,4 @@ Currently, I am in my fourth year of doctoral studies within the Information Sys
 Before joining the Foster School of Business, I achieved a Master of Arts degree in Economics from Columbia University. Additionally, I hold Bachelor of Science degrees in both Mathematics and Economics from the University of Illinois at Urbana-Champaign.
 
 
-[curriculum vitae](https://https://mingruirayzhang.github.io//assets/pdf/Mingrui_Zhang_CV.pdf)
+[curriculum vitae](https://https://mingruirayzhang.github.io/assets/pdf/Mingrui_Zhang_CV.pdf)
