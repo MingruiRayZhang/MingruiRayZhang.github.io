@@ -26,5 +26,5 @@ nav_order: 2
 - ***Uncovering the effect of Smart Vending Machine? \textemdash A Tensor Completion approach using Transactions and Geo-location Data*** (with Yong Tan, Waning Chen, Xusen Cheng)
 - ***Time for Next Project? Effects of Users' Opinion on Developers*** (with Yingda Lu)
 - ***Contract Design for Cloud Services with Privacy and Security Concerns*** (with Hongyan Xu, Ying Wang)
-- ***Projects We Love: Atypicality versus Popularity on Crowdfunding Platforms*** (with Yu Kan, Yifan Yu)
+
 
