@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: none
 permalink: /assets/pdf/Mingrui_Zhang_CV.pdf
-nav: true
 title: vitae
 description: Mingrui ZHang's CV
+nav: true
 nav_order: 5
 ---
 
