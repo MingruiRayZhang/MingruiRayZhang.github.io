@@ -2,17 +2,25 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Personal Website for Mingrui Zhang - Mingrui (Ray) Zhang # the website title (if blank, full name will be used instead)
 first_name: Mingrui
 middle_name: Ray 
 last_name: Zhang
 email: mz74@uw.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal Website for Mingrui (Ray) Zhang
+  Personal Website for Mingrui Zhang - Mingrui (Ray) Zhang
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Yu Kan, Information System, UW Foster, Personal Website  # add your own keywords or leave empty
+
+  <div style="display:none">
+  Mingrui Zhang
+  Keywords:
+  <a href="https://mingruirayzhang.github.io/" title="Mingrui Zhang" target="_blank"><strong>Mingrui Zhang</strong></a> 
+
+  <a href="https://mingruirayzhang.github.io/" title="Mingrui Zhang" target="_blank"><strong>Mingrui Zhang</strong></a> 
+  </div>
+keywords: Mingrui Zhang, Ray Zhang, Mingrui (Ray) Zhang, Information System, Operation Management, University of Washington, Foster School of Business, UW Foster, Personal Website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🦈 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
