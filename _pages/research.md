@@ -9,10 +9,10 @@ nav_order: 2
 
 ### Working papers
 
-- ``Harnessing Tensor Completion with Geo-location: Impacts of Smart Vending Machines in Urban Landscapes''(with Wanning Chen, Yong Tan, Xusen Cheng)
+- ***Harnessing Tensor Completion with Geo-location: Impacts of Smart Vending Machines in Urban Landscapes*** (with Wanning Chen, Yong Tan, Xusen Cheng)
   - This study uses low-rank tensor completion with truncated nuclear norm methods on extensive data to understand the impact of smart vending machines on urban consumers.
 
-- ``Investor Learning in Crowdfunded Supply Chain Finance Markets''(with Zhijin Zhou, Shengsheng Xiao, Yi-Chun (Chad) Ho, Yong Tan) [Under major revision at *Production and Operations Management*]
+- ***Investor Learning in Crowdfunded Supply Chain Finance Markets*** (with Zhijin Zhou, Shengsheng Xiao, Yi-Chun (Chad) Ho, Yong Tan) [Under major revision at *Production and Operations Management*]
   - Investors in crowdfunded SCF adjust their views on guarantor reliability from loan repayments and act accordingly. This perception impacts investor reactions to factors like interest rate, affecting market efficiency and fundraising success.
 
 - ***Frenemies in the Retail Market: A Partnership Between a Physical Retailer and an E-tailer for Consumer Returns*** (with Lin Hao, Yong Tan) [Preparing for journal submission]
