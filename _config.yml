@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Personal Website for Mingrui Zhang - Mingrui (Ray) Zhang # the website title (if blank, full name will be used instead)
+title: Personal Website for Mingrui (Ray) Zhang # the website title (if blank, full name will be used instead)
 first_name: Mingrui
 middle_name: Ray 
 last_name: Zhang
 email: mz74@uw.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal Website for Mingrui Zhang
+  Personal Website for Mingrui Zhang - Mingrui (Ray) Zhang
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
