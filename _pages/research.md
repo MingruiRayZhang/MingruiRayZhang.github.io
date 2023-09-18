@@ -19,7 +19,6 @@ nav_order: 2
   -  Retailer-e-tailer partnerships can reduce competition when return handling and offline shopping costs hit specific thresholds. This reduced competition might lower consumer surplus, disadvantaging consumers.
   
 - ***When to Disclose Product Quality under Online Reviews?*** (with He Huang, Yufeng Yang, Hongyan Xu, Tingting Nian) [Preparing for journal submission]
-  - Set up a stylized model to examine the interplay between two solutions under two selling schemes: wholesale and agency selling.
   - With clearer online reviews, firms lean towards disclosing product quality due to changing consumer behavior. The firm's selling scheme choice hinges on factors like commission rates, with a bias towards quality disclosure.
 
 - ***Information Leakage Prior to SEC Form Filings --- Evidence from TAQ Millisecond Data*** (with Steven Wei Ho, Weiting Hong)
