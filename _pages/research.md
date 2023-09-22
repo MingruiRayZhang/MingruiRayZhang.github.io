@@ -15,7 +15,7 @@ nav_order: 2
 - ***Investor Learning in Crowdfunded Supply Chain Finance Markets*** (with Zhijin Zhou, Shengsheng Xiao, Yi-Chun (Chad) Ho, Yong Tan) [Under major revision at *Production and Operations Management*]
   - Investors in crowdfunded SCF adjust their views on guarantor reliability from loan repayments and act accordingly. This perception impacts investor reactions to factors like interest rate, affecting market efficiency and fundraising success.
 
-- ***Frenemies in the Retail Market: A Partnership Between a Physical Retailer and an E-tailer for Consumer Returns*** (with Lin Hao, Yong Tan) [Preparing for journal submission]
+- ***Frenemies in the Retail Market: A Partnership Between a Physical Retailer and an E-tailer for Consumer Returns*** (with Lin Hao, Shi Chen, Yong Tan) [Preparing for journal submission]
   -  Retailer-e-tailer partnerships can reduce competition when return handling and offline shopping costs hit specific thresholds. This reduced competition might lower consumer surplus, disadvantaging consumers.
   
 - ***When to Disclose Product Quality under Online Reviews?*** (with He Huang, Yufeng Yang, Hongyan Xu, Tingting Nian) [Preparing for journal submission]
