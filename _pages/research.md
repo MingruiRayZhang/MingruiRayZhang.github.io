@@ -28,6 +28,6 @@ nav_order: 2
 
 - ***The Gamer-Developer Feedback Loop: Navigating Review Dynamics in Digital Marketplaces*** (with Yingda Lu)
   - Positive reviews shape perceptions more than gameplay duration; game updates and developer responses influence review dynamics.
-- ***Contract Design for Cloud Services with Privacy and Security Concerns*** (with Hongyan Xu, Ying Wang)
+- ***Contract Design for Cloud Services with Privacy and Security Concerns*** (with Hongyan Xu, Ying Wang, Shi Chen)
 
 
