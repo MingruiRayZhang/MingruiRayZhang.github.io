@@ -6,7 +6,7 @@ subtitle: <a href="https://foster.uw.edu/faculty-research/academic-departments/i
 
 profile:
   align: right
-  image: ZZZ06855_square.jpg
+  image: ZZ-re-8c.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>DEM 203 A</p>
