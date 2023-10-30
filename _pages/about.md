@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Mingrui (Ray) Zhang (张明睿 in Chinese, pronunciation: "Meeng-Ray Jah-ng") is a Ph.D. student in the Information Systems and Operations Management Department at the Michael G. Foster School of Business. He is fortunate to have the guidance of [Professor Yong Tan](https://foster.uw.edu/faculty-research/directory/yong-tan/) for his research endeavors. His research areas include E-commerce, Consumer Behaviors, Crowdfunding, and Fin-tech.
+Mingrui (Ray) Zhang (张明睿 in Chinese, pronunciation: "Meeng-Ray Jah-ng") is a Ph.D. student studying Information Systems at the Michael G. Foster School of Business. He is fortunate to have the guidance of [Professor Yong Tan](https://foster.uw.edu/faculty-research/directory/yong-tan/) for his research endeavors. His research areas include E-commerce, Consumer Behaviors, Crowdfunding, and Fin-tech.
 
 Before joining the Foster School of Business, He earned a Master of Arts degree in Economics from Columbia University, and Bachelor of Science degrees in both Mathematics and Economics from the University of Illinois at Urbana-Champaign.
 
