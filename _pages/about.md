@@ -26,3 +26,11 @@ Before joining the Foster School of Business, He earned a Master of Arts degree 
 **He is on the academic job market for 2023-2024!**
 
 [curriculum vitae](https://mingruirayzhang.github.io/assets/pdf/Mingrui_Zhang_CV.pdf)
+
+
+
+
+
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=fG0IWTRFdv49_p21e2xRqZum0F7jV9wCMAJxpii2S-s&cl=ffffff&w=a"></script>
