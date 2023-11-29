@@ -33,4 +33,3 @@ Before joining the Foster School of Business, He earned a Master of Arts degree 
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=fG0IWTRFdv49_p21e2xRqZum0F7jV9wCMAJxpii2S-s&cl=ffffff&w=a"></script>
