@@ -10,7 +10,7 @@ nav_order: 3
 Over the course of my Ph.D. journey, I have taught/assisted in numerous courses spanning a diverse range of subjects. My primary teaching interests include but are not limited to Data Analytics, Statistics, Operations and Supply Chain Management, Database Management, Programming languages, and softwares.
 
 Currently teaching as instructor:
-- 'Business Data Analytics' (IS 451), Sections A & B, SP 2024.
+- 'Business Data Analytics' (IS 451), Sections A & B, WI 2024.
 
 Served as Teaching Assistant:
 - 'Advanced and Unstructured Data Mining' (MSIS 541), SP 2023. 
