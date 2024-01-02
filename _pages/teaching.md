@@ -2,13 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: past teaching experiences
+description: past and current teaching experiences
 nav: true
 nav_order: 3
 ---
 
-Over the course of my Ph.D. journey, I have served as a Teaching Assistant for numerous courses spanning a diverse range of subjects. My primary teaching interests include but are not limited to Data Analytics, Statistics, Operations and Supply Chain Management, Database Management, Programming languages, and software.
+Over the course of my Ph.D. journey, I have taught/assisted in numerous courses spanning a diverse range of subjects. My primary teaching interests include but are not limited to Data Analytics, Statistics, Operations and Supply Chain Management, Database Management, Programming languages, and software.
 
+Currently teaching as instructor:
+- 'Business Data Analytics' (IS 451), Section A&B, SP 2024.
+
+Served as Teaching Assistant:
 - 'Operations and Supply Chain Management' (TMMBA 516), AU 2021/22. Received a feedback score of 4.7/5.
 - 'Probability and Statistics' (QMETH 510), AU 2021/22 & WI 2022/23. Received a feedback score of 4.6/5.
 - 'Spreadsheet Modeling for Business Enterprise' (SCM 512), SU 2022. Received a feedback score of 4.8/5.
