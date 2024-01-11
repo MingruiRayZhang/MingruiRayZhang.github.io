@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-My research utilizes both econometric and analytical methodologies to examine the impact of technological innovations across various market contexts. I examine the impact of technology advancements, the dynamics of strategic collaborations, and the influence of consumers perceptions. Looking ahead, I aim to expand my research agenda to incorporate topics in Cyberscurity and Artificial Intelligence.
+My research utilizes both econometric and analytical methodologies to examine the impact of technological innovations across various market contexts. I examine the impact of technology advancements, the dynamics of strategic collaborations, and the influence of consumer perceptions. Looking ahead, I aim to expand my research agenda to incorporate topics in Cybersecurity and Artificial Intelligence.
 
 ### Working papers
 
