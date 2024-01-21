@@ -11,7 +11,7 @@ My research utilizes both econometric and analytical methodologies to examine th
 
 ### Working papers
 
-- ***Harnessing Tensor Completion with Geo-location: Impacts of Smart Vending Machines in Urban Landscapes*** (with Wanning Chen, Yong Tan, Xusen Cheng)
+- ***Tensor Completion with Spatiotemporal Data: Impacts of Smart Vending Machines in Different Urban Settings*** (with Wanning Chen, Yong Tan, Xusen Cheng)
   - This study uses low-rank tensor completion with truncated nuclear norm methods on extensive data to understand the impact of smart vending machines on urban consumers.
 
 - ***Investor Learning in Crowdfunded Supply Chain Finance Markets*** (with Zhijin Zhou, Shengsheng Xiao, Yi-Chun (Chad) Ho, Yong Tan) [Under major revision at *Production and Operations Management*]
@@ -30,6 +30,7 @@ My research utilizes both econometric and analytical methodologies to examine th
 
 - ***The Gamer-Developer Feedback Loop: Navigating Review Dynamics in Digital Marketplaces*** (with Yingda Lu)
   - Positive reviews shape perceptions more than gameplay duration; game updates and developer responses influence review dynamics.
+  
 - ***Contract Design for Cloud Services with Privacy and Security Concerns*** (with Hongyan Xu, Ying Wang, Shi Chen)
   - strategically designed contracts in cloud services could effectively balance pricing, liability, and data licensing, and address the growing challenges of data privacy and security in a rapidly expanding market.
 
