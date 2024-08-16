@@ -19,6 +19,7 @@ My research utilizes both econometric and analytical methodologies to examine th
 
 - ***Frenemies in the Retail Market: A Partnership Between a Physical Retailer and an E-tailer for Consumer Returns*** (with Lin Hao, Shi Chen, Yong Tan) [Preparing for journal submission]
   -  Retailer-e-tailer partnerships can reduce competition when return handling and offline shopping costs hit specific thresholds. This reduced competition might lower consumer surplus, disadvantaging consumers.
+  - [Online Appendix](/assets/appendices/RPPR/ZhangHaoTan-2023-appendix-v1.pdf)
   
 - ***When to Disclose Product Quality under Online Reviews?*** (with He Huang, Yufeng Yang, Hongyan Xu, Tingting Nian) [Preparing for journal submission]
   - With clearer online reviews, firms lean towards disclosing product quality due to changing consumer behavior. The firm's selling scheme choice hinges on factors like commission rates, with a bias towards quality disclosure.
