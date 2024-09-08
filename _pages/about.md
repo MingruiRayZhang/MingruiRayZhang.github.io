@@ -9,9 +9,9 @@ profile:
   image: ZZ-re-8c.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>DEM 203 A</p>
-    <p>4273 E Stevens Way NE</p>
-    <p>Seattle, WA 98195</p>
+    <p>DCB 315 E</p>
+    <p>2101 S. University Blvd.</p>
+    <p>Denver, CO 80210</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
