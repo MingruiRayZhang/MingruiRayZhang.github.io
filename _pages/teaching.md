@@ -9,20 +9,21 @@ nav_order: 3
 
 Over the course of my Ph.D. journey, I have taught/assisted in numerous courses spanning a diverse range of subjects. My primary teaching interests include but are not limited to Data Analytics, Statistics, Operations and Supply Chain Management, Database Management, Programming languages, and analytical software.
 
-Currently teaching as instructor:
+As instructor:
+- 'Analytics I: Data Management & Analysis' (INFO 1010), Sections 1 & 4, AU 2024.
 - 'Business Data Analytics' (IS 451), Sections A & B, WI 2024.
 
-Served as Teaching Assistant:
+As Teaching Assistant:
 - 'Advanced and Unstructured Data Mining' (MSIS 541), SP 2023. 
 - 'Information Technology And Marketing In The New Economy' (MSIS 521), WI 2022/23. 
 - 'Digital Transformation Of Organizations' (MSIS 511), SP 2021/22/23. 
 - 'Managing Information Technology Projects' (MSIS 524), SP 2021/22/23. 
-- 'Operations and Supply Chain Management' (TMMBA 516), AU 2021/22. (4.7/5)
+- 'Operations and Supply Chain Management' (TMMBA 516), AU 2021/22. 
 - 'Data Management for Analytics' (BA 502), SP 2023.
-- 'Probability and Statistics' (QMETH 510), AU 2021/22 & WI 2022/23. (4.6/5)
-- 'Spreadsheet Modeling for Business Enterprise' (SCM 512), SU 2022. (4.8/5)
-- 'Probability and Statistics' (SCM 501), SU 2022. (4.6/5)
-- 'Forecasting, Inventory Management, and Supply Chain Analytics' (SCM 520), WI 2022/23. (4.7/5)
+- 'Probability and Statistics' (QMETH 510), AU 2021/22 & WI 2022/23. 
+- 'Spreadsheet Modeling for Business Enterprise' (SCM 512), SU 2022. 
+- 'Probability and Statistics' (SCM 501), SU 2022. 
+- 'Forecasting, Inventory Management, and Supply Chain Analytics' (SCM 520), WI 2022/23. 
 - 'Statistics for Management' (EMBA 510), SP 2022.
 - 'Data Management and SQL' (BUS AN 512), SU 2021.
 - 'Intro to Information Systems' (IS 300), SP 2021.

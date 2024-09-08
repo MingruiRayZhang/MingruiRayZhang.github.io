@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-My research utilizes both econometric and analytical methodologies to examine the impact of technological innovations across various market contexts. I examine the impact of technology advancements, the dynamics of strategic collaborations, and the influence of consumer perceptions. Looking ahead, I aim to expand my research agenda to incorporate topics in Cybersecurity and Artificial Intelligence.
+My research utilizes both econometrical and analytical methodologies to examine the impact of technological innovations across various market contexts. Specifically, his work investigates the effects of new technology in retail, the dynamics of strategic partnerships between online and offline retailers, and the influence of consumer perceptions on the online crowdfunding market. 
 
 ### Working papers
 
@@ -32,7 +32,6 @@ My research utilizes both econometric and analytical methodologies to examine th
 - ***The Gamer-Developer Feedback Loop: Navigating Review Dynamics in Digital Marketplaces*** (with Yingda Lu)
   - Positive reviews shape perceptions more than gameplay duration; game updates and developer responses influence review dynamics.
   
-- ***Contract Design for Cloud Services with Privacy and Security Concerns*** (with Hongyan Xu, Ying Wang, Shi Chen)
-  - strategically designed contracts in cloud services could effectively balance pricing, liability, and data licensing, and address the growing challenges of data privacy and security in a rapidly expanding market.
+
 
 

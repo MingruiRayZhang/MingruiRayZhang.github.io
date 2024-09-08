@@ -19,11 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Mingrui (Ray) Zhang (张明睿 in Chinese, pronunciation: "Meeng-Ray Jah-ng") is a Ph.D. student studying Information Systems at the Michael G. Foster School of Business. He is fortunate to have the guidance of [Professor Yong Tan](https://foster.uw.edu/faculty-research/directory/yong-tan/) for his research endeavors. His research areas include Consumer Behaviors, Fin-tech, Innovations, and Cybersecurity.
+Mingrui (Ray) Zhang (张明睿 in Chinese, pronounced "Ming-Ray Jahng") is a tenure-track Assistant Professor in the Department of [Business Information & Analytics](https://daniels.du.edu/business-information-analytics/) at the Daniels College of Business, University of Denver. He holds a Ph.D. in Business Administration (Information Systems) from the University of Washington, a Master of Arts in Economics from Columbia University, and a Bachelor of Science in Mathematics and Economics from the University of Illinois at Urbana-Champaign.
 
-Before joining the Foster School of Business, He earned a Master of Arts degree in Economics from Columbia University, and Bachelor of Science degrees in both Mathematics and Economics from the University of Illinois at Urbana-Champaign.
-
-**He is on the academic job market for 2023-2024!**
+His research utilizes both econometrical and analytical methodologies to examine the impact of technological innovations across various market contexts. Specifically, his work investigates the effects of new technology in retail, the dynamics of strategic partnerships between online and offline retailers, and the influence of consumer perceptions on the online crowdfunding market. 
 
 [curriculum vitae](https://mingruirayzhang.github.io/assets/pdf/Mingrui_Zhang_CV.pdf)
 
