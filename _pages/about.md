@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://foster.uw.edu/faculty-research/academic-departments/information-systems-and-operations-management/">Michael G. Foster School of Business</a>
+subtitle: <a href="https://daniels.du.edu/">Daniels College of Business</a>
 
 profile:
   align: right
