@@ -10,7 +10,7 @@ nav_order: 3
 Over the course of my Ph.D. journey, I have taught/assisted in numerous courses spanning a diverse range of subjects. My primary teaching interests include but are not limited to Data Analytics, Statistics, Operations and Supply Chain Management, Database Management, Programming languages, and analytical software.
 
 As instructor:
-- 'Analytics I: Data Management & Analysis' (INFO 1010), Sections 1 & 2, WI 2024.
+- 'Analytics I: Data Management & Analysis' (INFO 1010), Sections 1 & 2, WI 2025.
 - 'Analytics I: Data Management & Analysis' (INFO 1010), Sections 1 & 4, AU 2024.
 - 'Business Data Analytics' (IS 451), Sections A & B, WI 2024.
 
