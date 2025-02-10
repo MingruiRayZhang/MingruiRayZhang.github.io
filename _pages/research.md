@@ -14,7 +14,7 @@ My research utilizes both econometrical and analytical methodologies to examine 
 - ***Tensor Completion with Spatiotemporal Data: Impacts of Smart Vending Machines in Different Urban Settings*** (with Wanning Chen, Yong Tan, Xusen Cheng)
   - This study uses low-rank tensor completion with truncated nuclear norm methods on extensive data to understand the impact of smart vending machines on urban consumers.
 
-- ***Frenemies in the Retail Market: A Partnership Between a Physical Retailer and an E-tailer for Consumer Returns*** (with Lin Hao, Shi Chen, Yong Tan) [Preparing for journal submission]
+- ***Frenemies in the Retail Market: A Partnership Between a Physical Retailer and an E-tailer for Consumer Returns*** (with Lin Hao, Shi Chen, Yong Tan) 
   -  Retailer-e-tailer partnerships can reduce competition when return handling and offline shopping costs hit specific thresholds. This reduced competition might lower consumer surplus, disadvantaging consumers.
   - [Online Appendix](/assets/appendices/RPPR/ZhangHaoTan-2023-appendix.pdf)
 
@@ -24,7 +24,7 @@ My research utilizes both econometrical and analytical methodologies to examine 
 - ***Afraid of Niche, Tired of Mass: Atypical Idea Combination on Crowdfunding Platform*** (with Yu Kan, Yifan Yu, Yang Jiang, Yong Tan) [Revise and Resubmit at *Journal of Management Information Systems*]
   - Atypical combination of mainstream and niche ideas significantly and positively impacts individual crowdfunding project funding
   
-- ***When to Disclose Product Quality under Online Reviews?*** (with He Huang, Yufeng Yang, Hongyan Xu, Tingting Nian) [Preparing for journal submission]
+- ***When to Disclose Product Quality under Online Reviews?*** (with He Huang, Yufeng Yang, Hongyan Xu, Tingting Nian) 
   - With clearer online reviews, firms lean towards disclosing product quality due to changing consumer behavior. The firm's selling scheme choice hinges on factors like commission rates, with a bias towards quality disclosure.
 
 - ***Information Leakage Prior to SEC Form Filings --- Evidence from TAQ Millisecond Data*** (with Steven Wei Ho, Weiting Hong)
