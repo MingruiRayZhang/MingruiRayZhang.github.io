@@ -14,11 +14,11 @@ My research utilizes both econometrical and analytical methodologies to examine 
 - ***Tensor Completion with Spatiotemporal Data: Impacts of Smart Vending Machines in Different Urban Settings*** (with Wanning Chen, Yong Tan, Xusen Cheng)
   - This study uses low-rank tensor completion with truncated nuclear norm methods on extensive data to understand the impact of smart vending machines on urban consumers.
 
-- ***Frenemies in the Retail Market: A Partnership Between a Physical Retailer and an E-tailer for Consumer Returns*** (with Lin Hao, Shi Chen, Yong Tan) 
+- ***Cross-Return, Showrooming, and Online-Offline Competition*** (with Lin Hao, Shi Chen, Yong Tan) 
   -  Retailer-e-tailer partnerships can reduce competition when return handling and offline shopping costs hit specific thresholds. This reduced competition might lower consumer surplus, disadvantaging consumers.
-  - [Online Appendix](/assets/appendices/RPPR/ZhangHaoTan-2023-appendix.pdf)
+  - [Online Appendix](/assets/appendices/ZhangHaoChenTan-2025-appendix.pdf)
 
-- ***Investor Learning in Crowdfunded Supply Chain Finance Markets*** (with Zhijin Zhou, Shengsheng Xiao, Yi-Chun (Chad) Ho, Yong Tan) [Under major revision at *Production and Operations Management*]
+- ***Investor Learning in Crowdfunded Supply Chain Finance Markets*** (with Zhijin Zhou, Shengsheng Xiao, Yi-Chun (Chad) Ho, Yong Tan) [Accepted at *Production and Operations Management*]
   - Investors in crowdfunded SCF adjust their views on guarantor reliability from loan repayments and act accordingly. This perception impacts investor reactions to factors like interest rate, affecting market efficiency and fundraising success.
 
 - ***Afraid of Niche, Tired of Mass: Atypical Idea Combination on Crowdfunding Platform*** (with Yu Kan, Yifan Yu, Yang Jiang, Yong Tan) [Revise and Resubmit at *Journal of Management Information Systems*]
