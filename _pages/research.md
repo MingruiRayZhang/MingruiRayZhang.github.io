@@ -17,7 +17,7 @@ My research utilizes both econometrical and analytical methodologies to examine 
 - ***Cross-Return, Showrooming, and Online-Offline Competition*** (with Lin Hao, Shi Chen, Yong Tan) [Online Appendix](/assets/appendices/ZhangHaoChenTan-2025-appendix.pdf) [Major Revision at *Information Systems Research*] 
   -  Retailer-e-tailer partnerships can reduce competition when return handling and offline shopping costs hit specific thresholds. This reduced competition might lower consumer surplus, disadvantaging consumers.
 
-- ***Investor Learning in Crowdfunded Supply Chain Finance Markets*** (with Zhijin Zhou, Shengsheng Xiao, Yi-Chun (Chad) Ho, Yong Tan) [*Production and Operations Management*] [Link](https://journals.sagepub.com/doi/10.1177/10591478251317137)
+- ***Investor Learning in Crowdfunded Supply Chain Finance Markets*** (with Zhijin Zhou, Shengsheng Xiao, Yi-Chun (Chad) Ho, Yong Tan) *Production and Operations Management*, 34(8), 2272–2287. [Link](https://journals.sagepub.com/doi/10.1177/10591478251317137)
   - Investors in crowdfunded SCF adjust their views on guarantor reliability from loan repayments and act accordingly. This perception impacts investor reactions to factors like interest rate, affecting market efficiency and fundraising success.
 
 - ***Who is on the Line? Examining the Impact of LLM-Powered Telemarketing Bots*** (with Yu Kan, Wenkang Qiu, Fengwen Chen)
