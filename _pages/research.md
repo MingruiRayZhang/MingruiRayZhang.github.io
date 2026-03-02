@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: summary of onging projects and research papers
+description: summary of research papers and onging projects 
 nav: true
 nav_order: 2
 ---
@@ -11,7 +11,7 @@ My research utilizes both econometrical and analytical methodologies to examine 
 
 ### Publications
 
-- ***Investor Learning in Crowdfunded Supply Chain Finance Markets*** (with Zhijin Zhou, Shengsheng Xiao, Yi-Chun (Chad) Ho, Yong Tan) [*Production and Operations Management*(2025)](https://journals.sagepub.com/doi/10.1177/10591478251317137), 34(8), 2272–2287. 
+- ***Investor Learning in Crowdfunded Supply Chain Finance Markets*** (with Zhijin Zhou, Shengsheng Xiao, Yi-Chun (Chad) Ho, Yong Tan) [*Production and Operations Management* (2025)](https://journals.sagepub.com/doi/10.1177/10591478251317137), 34(8), 2272–2287. 
   - Investors in crowdfunded SCF adjust their views on guarantor reliability from loan repayments and act accordingly. This perception impacts investor reactions to factors like interest rate, affecting market efficiency and fundraising success.
 
 ### Selected Papers
