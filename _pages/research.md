@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-My research utilizes both econometrical and analytical methodologies to examine the impact of technological innovations across various market contexts. Specifically, his work investigates the effects of new technology in retail, the dynamics of strategic partnerships between online and offline retailers, and the influence of consumer perceptions on the online crowdfunding market. 
+My research utilizes both econometrical and analytical methodologies to examine the impact of technological innovations across various market contexts. Specifically, my work investigates the effects of new technology in retail, the dynamics of strategic partnerships between online and offline retailers, and the influence of consumer perceptions on the online crowdfunding market. 
 
 ### Selected Papers
 
