@@ -17,7 +17,9 @@ nav_order: 2
 - Tensor Completion with Spatiotemporal Data: Impacts of Smart Vending Machines in Different Urban Settings (with Wanning Chen, Yong Tan, Xusen Cheng)
   - This study uses low-rank tensor completion with truncated nuclear norm methods on extensive data to understand the impact of smart vending machines on urban consumers.
 
-- [Cross-Return, Showrooming, and Online-Offline Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5696402) (with Lin Hao, Shi Chen, Yong Tan) [Major Revision at *Information Systems Research*] [Online Appendix](/assets/appendices/ZhangHaoChenTan-2025-appendix.pdf)
+- [Cross-Return, Showrooming, and Online-Offline Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5696402) (with Lin Hao, Shi Chen, Yong Tan) 
+  <br> [Online Appendix](/assets/appendices/ZhangHaoChenTan-2025-appendix.pdf)
+  <br> Major Revision at *Information Systems Research* 
   -  Retailer-e-tailer partnerships can reduce competition when return handling and offline shopping costs hit specific thresholds. This reduced competition might lower consumer surplus, disadvantaging consumers.
 
 - [Agentic Agent, Better Agent: Evidence from Agentic AI in Telemarketing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4180052) (with Yu Kan, Wenkang Qiu, Fengwen Chen) [Submitted to *Management Science*] 
@@ -36,6 +38,9 @@ nav_order: 2
 
 - The Gamer-Developer Feedback Loop: Navigating Review Dynamics in Digital Marketplaces (with Yingda Lu)
   - Positive reviews shape perceptions more than gameplay duration; game updates and developer responses influence review dynamics.
+
+- Clean Slates and Lasting Scars: Assessing Reintegration and Policy Design under Colorado’s Clean Slate Act (with YJ Lee, Yuwei Zhou)
+  - This paper proposes to evaluate whether Colorado’s Clean Slate Act improves reintegration outcomes after record sealing, and whether those effects differ across pathways and populations.
   
 
 
