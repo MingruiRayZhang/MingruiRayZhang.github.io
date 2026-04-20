@@ -30,7 +30,7 @@ nav_order: 2
   - Atypical combination of mainstream and niche ideas significantly and positively impacts individual crowdfunding project funding
   
 - Quality Revelation and Scheme Choice: The Impact of Online Review on Firm and Platform (with He Huang, Yufeng Yang, Hongyan Xu, Tingting Nian) 
-  <br> [Submitted to *Information Systems Research*] 
+  <br> Submitted to *Information Systems Research* 
   - With clearer online reviews, firms lean towards disclosing product quality due to changing consumer behavior. The firm's selling scheme choice hinges on factors like commission rates, with a bias towards quality disclosure.
 
 - [Information Leakage Prior to SEC Form Filings --- Evidence from TAQ Millisecond Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302096) (with Steven Wei Ho, Weiting Hong) 
