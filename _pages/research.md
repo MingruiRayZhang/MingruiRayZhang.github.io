@@ -9,7 +9,7 @@ nav_order: 2
 
 ### Publications
 
-- [**Investor Learning in Crowdfunded Supply Chain Finance Markets**](https://journals.sagepub.com/doi/10.1177/10591478251317137) (with Zhijin Zhou, Shengsheng Xiao, Yi-Chun (Chad) Ho, Yong Tan) *Production and Operations Management* (2025), 34(8), 2272–2287. 
+- [*Investor Learning in Crowdfunded Supply Chain Finance Markets*](https://journals.sagepub.com/doi/10.1177/10591478251317137) (with Zhijin Zhou, Shengsheng Xiao, Yi-Chun (Chad) Ho, Yong Tan) *Production and Operations Management* (2025), 34(8), 2272–2287. 
   - Investors in crowdfunded SCF adjust their views on guarantor reliability from loan repayments and act accordingly. This perception impacts investor reactions to factors like interest rate, affecting market efficiency and fundraising success.
 
 ### Selected Papers
@@ -17,7 +17,7 @@ nav_order: 2
 - **Tensor Completion with Spatiotemporal Data: Impacts of Smart Vending Machines in Different Urban Settings** (with Wanning Chen, Yong Tan, Xusen Cheng)
   - This study uses low-rank tensor completion with truncated nuclear norm methods on extensive data to understand the impact of smart vending machines on urban consumers.
 
-- [**Cross-Return, Showrooming, and Online-Offline Competition**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5696402) (with Lin Hao, Shi Chen, Yong Tan) [Major Revision at *Information Systems Research*] [Online Appendix](/assets/appendices/ZhangHaoChenTan-2025-appendix.pdf)
+- [Cross-Return, Showrooming, and Online-Offline Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5696402) (with Lin Hao, Shi Chen, Yong Tan) [Major Revision at *Information Systems Research*] [Online Appendix](/assets/appendices/ZhangHaoChenTan-2025-appendix.pdf)
   -  Retailer-e-tailer partnerships can reduce competition when return handling and offline shopping costs hit specific thresholds. This reduced competition might lower consumer surplus, disadvantaging consumers.
 
 - [**Agentic Agent, Better Agent: Evidence from Agentic AI in Telemarketing**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4180052) (with Yu Kan, Wenkang Qiu, Fengwen Chen) [Submitted to *Management Science*] 
