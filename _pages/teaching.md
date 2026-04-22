@@ -7,14 +7,11 @@ nav: true
 nav_order: 3
 ---
 
-Over the course of my journey in Denver and Seattle, I have taught/assisted in numerous courses spanning a diverse range of subjects. My primary teaching interests include but are not limited to Data Analytics, Statistics, Operations and Supply Chain Management, Database Management, Programming languages, and analytical software.
+I have taught and supported courses across data analytics, statistics, operations and supply chain management, database management, programming, and analytical software. My experience includes serving both as course instructor and teaching assistant across undergraduate, graduate, MBA, and executive programs.
 
 As instructor:
-- 'Analytics I: Data Management & Analysis' (INFO 1010), Sections 4 & 7, WI 2026.
-- 'Analytics I: Data Management & Analysis' (INFO 1010), Sections 5 & 6, AU 2025.
-- 'Analytics I: Data Management & Analysis' (INFO 1010), Sections 1 & 2, WI 2025.
-- 'Analytics I: Data Management & Analysis' (INFO 1010), Sections 1 & 4, AU 2024.
-- 'Business Data Analytics' (IS 451), Sections A & B, WI 2024.
+- 'Analytics I: Data Management & Analysis' (INFO 1010), AU 2024/25 & WI 2025/26.
+- 'Business Data Analytics' (IS 451), WI 2024.
 
 As Teaching Assistant:
 - 'Advanced and Unstructured Data Mining' (MSIS 541), SP 2023. 
@@ -35,4 +32,4 @@ As Teaching Assistant:
 - 'Managing and Mining Big Data' (SCM 530), AU 2020.
 - 'Introduction to Statistical Methods' (QMETH 201), WI 2020 & SP 2020.
 
-My teaching philosophy is anchored in three core principles: efficiency, passion, and fairness, each carefully designed to enrich the student learning experience. I prioritize efficiency by crafting curricula that make the most of our shared time, facilitating active learning, and tailoring individualized sessions to go beyond basic queries and encourage intellectual growth. Passion serves as the linchpin, inspiring students by weaving their interests into the coursework, thereby heightening engagement and deepening understanding through real-world applications. Fairness is essential in recognizing the unique attributes each student brings to the classroom, and I strive to create an equitable learning environment where everyone feels valued and motivated. Constantly fine-tuning my approach through assessments and feedback, I keep communication lines open and time-sensitive, all aimed at maximizing student engagement and optimizing learning outcomes.
+
