@@ -25,9 +25,7 @@ His research utilizes both econometrical and analytical methodologies to examine
 
 [curriculum vitae](https://mingruirayzhang.github.io/assets/pdf/Mingrui_Zhang_CV.pdf)
 
-<div style="text-align: center; margin-top: 1rem;">
-  <img src="/assets/img/photos/2024gugu.JPG" alt="Photo 1" style="width: 80%; border-radius: 8px;">
-</div>
+
 
 
 
