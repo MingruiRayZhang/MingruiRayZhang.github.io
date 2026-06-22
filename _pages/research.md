@@ -23,7 +23,7 @@ nav_order: 2
   - [Online Appendix](/assets/appendices/ZhangHaoChenTan-2025-appendix.pdf)
 
 - [Agentic Agent, Better Agent: Evidence from Agentic AI in Telemarketing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6502379) (with Yu Kan, Wenkang Qiu, Fengwen Chen)
-  <br> Submitted to *Management Science* 
+  <br> Major Revision at *Management Science* 
   - Using a quasi-experimental design and nearly 10 million calls from a major Chinese financial platform, we show that LLM-powered voice bots substantially outperform human agents in driving loan initiation, with Retrieval-Augmented Generation further amplifying conversion effectiveness.
 
 - [Social Learning and Temporal Dynamics in Reward-Based Crowdfunding Success](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4180052) (with Yu Kan, Yifan Yu, Yang Jiang, Yong Tan) 
