@@ -22,7 +22,7 @@ nav_order: 2
   - Using a quasi-experimental design and nearly 10 million calls from a major Chinese financial platform, we show that LLM-powered voice bots substantially outperform human agents in driving loan initiation, with Retrieval-Augmented Generation further amplifying conversion effectiveness.
 
 - [Cross-Return, Showrooming, and Online-Offline Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5696402) (with Lin Hao, Shi Chen, Yong Tan)\
-  <span style="color: #005A9C;">Major Revision at <em style="color: #005A9C;">Information Systems Research</em></span>
+  <span style="color: blue;">Major Revision at <em style="color: #005A9C;">Information Systems Research</em></span>
   -  Retailer-e-tailer partnerships can reduce competition when return handling and offline shopping costs hit specific thresholds. This reduced competition might lower consumer surplus, disadvantaging consumers.
   - [Online Appendix](/assets/appendices/ZhangHaoChenTan-2025-appendix.pdf)
   
@@ -39,11 +39,11 @@ nav_order: 2
 ### Ongoing Projects
 
 - The Gamer-Developer Feedback Loop: Navigating Review Dynamics in Digital Marketplaces (with Yingda Lu)
-  - Positive reviews shape perceptions more than gameplay duration; game updates and developer responses influence review dynamics.
+  <!-- - Positive reviews shape perceptions more than gameplay duration; game updates and developer responses influence review dynamics. -->
 
 - Clean Slates and Lasting Scars: Assessing Reintegration and Policy Design under Colorado’s Clean Slate Act (with YJ Lee, Yuwei Zhou)
-  - This paper proposes to evaluate whether Colorado’s Clean Slate Act improves reintegration outcomes after record sealing, and whether those effects differ across pathways and populations.
+  <!-- - This paper proposes to evaluate whether Colorado’s Clean Slate Act improves reintegration outcomes after record sealing, and whether those effects differ across pathways and populations. -->
   
-
+- Asked and Unanswered: Analyst Scrutiny and Managerial Deflection under the SEC Cybersecurity Disclosure Rule (with Tianjie Deng, Cheng Zhang, Tracy Xu)
 
 
