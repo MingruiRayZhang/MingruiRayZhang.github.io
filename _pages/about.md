@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Mingrui (Ray) Zhang (张明睿 in Chinese, pronounced "Ming-Ray Jahng") is an Assistant Professor in the Department of [Business Information & Analytics](https://daniels.du.edu/business-information-analytics/) at the Daniels College of Business, University of Denver. His research utilizes both econometrical and analytical methodologies to examine the impact of technological innovations across various market contexts.
+Mingrui (Ray) Zhang (张明睿 in Chinese, pronounced "Ming-Ray Jahng") is an Assistant Professor in the Department of [Business Information & Analytics](https://daniels.du.edu/business-information-analytics/) at the Daniels College of Business, University of Denver. His research utilizes both econometric and analytical methodologies to examine the impact of technological innovations across various market contexts.
 
 He holds a Ph.D. in Business Administration (Information Systems) from the University of Washington, a Master of Arts in Economics from Columbia University, and a Bachelor of Science in Mathematics and Economics from the University of Illinois at Urbana-Champaign. 
 

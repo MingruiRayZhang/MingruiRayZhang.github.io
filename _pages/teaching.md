@@ -15,8 +15,8 @@ As instructor:
 
 As Teaching Assistant:
 - 'Advanced and Unstructured Data Mining' (MSIS 541), SP 2023. 
-- 'Information Technology And Marketing In The New Economy' (MSIS 521), WI 2022/23. 
-- 'Digital Transformation Of Organizations' (MSIS 511), SP 2021/22/23. 
+- 'Information Technology and Marketing in the New Economy' (MSIS 521), WI 2022/23. 
+- 'Digital Transformation of Organizations' (MSIS 511), SP 2021/22/23. 
 - 'Managing Information Technology Projects' (MSIS 524), SP 2021/22/23. 
 - 'Operations and Supply Chain Management' (TMMBA 516), AU 2021/22. 
 - 'Data Management for Analytics' (BA 502), SP 2023.
@@ -28,7 +28,7 @@ As Teaching Assistant:
 - 'Data Management and SQL' (BUS AN 512), SU 2021.
 - 'Intro to Information Systems' (IS 300), SP 2021.
 - 'Statistical Data Analysis for Management' (QMETH 500), WI 2021.
-- 'Business Analytics-Tools for Big Data' (OPMGT 565), AU 2020.
+- 'Business Analytics: Tools for Big Data' (OPMGT 565), AU 2020.
 - 'Managing and Mining Big Data' (SCM 530), AU 2020.
 - 'Introduction to Statistical Methods' (QMETH 201), WI 2020 & SP 2020.
 
