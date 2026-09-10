@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: summary of research papers and onging projects 
+description: summary of research papers and ongoing projects 
 nav: true
 nav_order: 2
 ---
@@ -22,7 +22,7 @@ nav_order: 2
   - Using a quasi-experimental design and nearly 10 million calls from a major Chinese financial platform, we show that LLM-powered voice bots substantially outperform human agents in driving loan initiation, with Retrieval-Augmented Generation further amplifying conversion effectiveness.
 
 - [Cross-Return, Showrooming, and Online-Offline Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5696402) (with Lin Hao, Shi Chen, Yong Tan)\
-  <span style="color: blue;">Major Revision at <em style="color: #005A9C;">Information Systems Research</em></span>
+  <span style="color: #005A9C;">Major Revision at <em style="color: #005A9C;">Information Systems Research</em></span>
   -  Retailer-e-tailer partnerships can reduce competition when return handling and offline shopping costs hit specific thresholds. This reduced competition might lower consumer surplus, disadvantaging consumers.
   - [Online Appendix](/assets/appendices/ZhangHaoChenTan-2025-appendix.pdf)
   
