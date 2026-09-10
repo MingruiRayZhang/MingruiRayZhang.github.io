@@ -17,17 +17,17 @@ nav_order: 2
 - Tensor Completion with Spatiotemporal Data: Impacts of Smart Vending Machines in Different Urban Settings (with Wanning Chen, Yong Tan, Xusen Cheng)
   - This study uses low-rank tensor completion with truncated nuclear norm methods on extensive data to understand the impact of smart vending machines on urban consumers.
 
-- [Agentic Agent, Better Agent: Evidence from Agentic AI in Telemarketing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6502379) (with Yu Kan, Wenkang Qiu, Fengwen Chen)
-  <span style="color: blue;">Major Revision at *Management Science*</span> 
+- [Agentic Agent, Better Agent: Evidence from Agentic AI in Telemarketing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6502379) (with Yu Kan, Wenkang Qiu, Fengwen Chen)\
+  <span style="color: dodgers-blue;">Major Revision at *Management Science*</span> 
   - Using a quasi-experimental design and nearly 10 million calls from a major Chinese financial platform, we show that LLM-powered voice bots substantially outperform human agents in driving loan initiation, with Retrieval-Augmented Generation further amplifying conversion effectiveness.
 
-- [Cross-Return, Showrooming, and Online-Offline Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5696402) (with Lin Hao, Shi Chen, Yong Tan) 
-  <span style="color: blue;">Major Revision at *Information Systems Research*</span>
+- [Cross-Return, Showrooming, and Online-Offline Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5696402) (with Lin Hao, Shi Chen, Yong Tan)\
+  <span style="color: dodgers-blue;">Major Revision at *Information Systems Research*</span>
   -  Retailer-e-tailer partnerships can reduce competition when return handling and offline shopping costs hit specific thresholds. This reduced competition might lower consumer surplus, disadvantaging consumers.
   - [Online Appendix](/assets/appendices/ZhangHaoChenTan-2025-appendix.pdf)
   
-- Uncovering Quality Bit-by-bit: Strategic Disclosure under Scheme Choice and Online Reviews (with He Huang, Yufeng Yang, Hongyan Xu, Tingting Nian) 
-  <span style="color: blue;">Major Revision at *Information Systems Research*</span>
+- Uncovering Quality Bit-by-bit: Strategic Disclosure under Scheme Choice and Online Reviews (with He Huang, Yufeng Yang, Hongyan Xu, Tingting Nian)\
+  <span style="color: dodgers-blue;">Major Revision at *Information Systems Research*</span>
   - With clearer online reviews, firms lean towards disclosing product quality due to changing consumer behavior. The firm's selling scheme choice hinges on factors like commission rates, with a bias towards quality disclosure.
 
 - [Social Learning and Temporal Dynamics in Reward-Based Crowdfunding Success](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4180052) (with Yu Kan, Yifan Yu, Yang Jiang, Yong Tan) 
