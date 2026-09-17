@@ -9,7 +9,7 @@ nav_order: 2
 
 ### Publications
 
-- [Investor Learning in Crowdfunded Supply Chain Finance Markets](https://journals.sagepub.com/doi/10.1177/10591478251317137) (with Zhijin Zhou, Shengsheng Xiao, Yi-Chun (Chad) Ho, Yong Tan) *Production and Operations Management* (2025), 34(8), 2272–2287. 
+- [Investor Learning in Crowdfunded Supply Chain Finance Markets](https://journals.sagepub.com/doi/10.1177/10591478251317137) (with Zhijin Zhou, Shengsheng Xiao, Yi-Chun (Chad) Ho, Yong Tan) <em style="color: #005A9C;">Production and Operations Management</em> (2025), 34(8), 2272–2287. 
   - Investors in crowdfunded SCF adjust their views on guarantor reliability from loan repayments and act accordingly. This perception impacts investor reactions to factors like interest rate, affecting market efficiency and fundraising success.
 
 ### Selected Papers
