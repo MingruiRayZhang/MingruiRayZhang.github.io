@@ -1,15 +1,15 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href="https://daniels.du.edu/">Daniels College of Business</a>
+subtitle: <a href="https://daniels.du.edu/directory/mingrui-zhang/">Daniels College of Business</a>
 
 profile:
   align: right
   image: ZZ-re-8c.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>DCB 315 E</p>
+    <p>DCB 585 E</p>
     <p>2101 S. University Blvd.</p>
     <p>Denver, CO 80210</p>
 
