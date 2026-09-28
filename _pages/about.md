@@ -9,7 +9,7 @@ profile:
   image: ZZ-re-8c.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>DCB 585 E</p>
+    <p>DCB 585</p>
     <p>2101 S. University Blvd.</p>
     <p>Denver, CO 80210</p>
 
