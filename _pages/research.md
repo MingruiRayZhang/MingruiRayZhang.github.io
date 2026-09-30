@@ -18,9 +18,6 @@ nav_order: 2
   <span style="color: #005A9C;">Major Revision at <em style="color: #005A9C;">Management Science</em></span> 
   - Using a quasi-experimental design and nearly 10 million calls from a major Chinese financial platform, we show that LLM-powered voice bots substantially outperform human agents in driving loan initiation, with Retrieval-Augmented Generation further amplifying conversion effectiveness.
 
-- Tensor Completion with Spatiotemporal Data: Impacts of Smart Vending Machines in Different Urban Settings (with Wanning Chen, Yong Tan, Xusen Cheng)
-  - This study uses low-rank tensor completion with truncated nuclear norm methods on extensive data to understand the impact of smart vending machines on urban consumers.
-
 - [Cross-Return, Showrooming, and Online-Offline Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5696402) (with Lin Hao, Shi Chen, Yong Tan)\
   <span style="color: #005A9C;">Major Revision at <em style="color: #005A9C;">Information Systems Research</em></span>
   - Retailer-e-tailer partnerships can reduce competition when return handling and offline shopping costs hit specific thresholds. This reduced competition might lower consumer surplus, disadvantaging consumers.
@@ -33,6 +30,9 @@ nav_order: 2
 - [Information Leakage Prior to SEC Form Filings --- Evidence from TAQ Millisecond Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3302096) (with Steven Wei Ho, Weiting Hong)\
   <span style="color: #005A9C;">Submitted to <em style="color: #005A9C;">Journal of Finance</em></span> 
   - There's evident information leakage around SEC filings, with stocks that surge before filing releases also rising post-release, and vice versa for declines. These price shifts aren't due to momentum or past SEC technical issues, highlighting a new, previously unexplored 30-minute trend.
+
+- Tensor Completion with Spatiotemporal Data: Impacts of Smart Vending Machines in Different Urban Settings (with Wanning Chen, Yong Tan, Xusen Cheng)
+  - This study uses low-rank tensor completion with truncated nuclear norm methods on extensive data to understand the impact of smart vending machines on urban consumers.
 
 - [Social Learning and Temporal Dynamics in Reward-Based Crowdfunding Success](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4180052) (with Yu Kan, Yifan Yu, Yang Jiang, Yong Tan) 
   - Atypical combination of mainstream and niche ideas significantly and positively impacts individual crowdfunding project funding success.
