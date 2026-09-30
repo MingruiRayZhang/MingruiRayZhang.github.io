@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Mingrui (Ray) Zhang (张明睿 in Chinese, pronounced "Ming-Ray Jahng") is an Assistant Professor in the Department of [Business Information & Analytics](https://daniels.du.edu/business-information-analytics/) at the Daniels College of Business, University of Denver. His research focuses on **Artificial Intelligence and Technological Innovation**, as well as **Digital Platforms and Markets**. His work examines how new technologies and platform-mediated environments shape individual behavior, firm strategy, and market outcomes. Methodologically, he employs causal inference, econometrics, machine learning, and game-theoretic modeling.
+Mingrui (Ray) Zhang (张明睿 in Chinese, pronounced "Ming-Ray Jahng") is an Assistant Professor in the Department of [Business Information & Analytics](https://daniels.du.edu/business-information-analytics/) at the Daniels College of Business, University of Denver. His research focuses on **Agentic AI and Innovation**, as well as **Information Disclosure and Learning** in digital and financial markets. His work examines how new technologies and platform-mediated environments shape individual behavior, firm strategy, and market outcomes. Methodologically, he employs causal inference, econometrics, machine learning, and game-theoretic modeling.
 
 He holds a Ph.D. in Business Administration (Information Systems) from the University of Washington, a Master of Arts in Economics from Columbia University, and a Bachelor of Science in Mathematics and Economics from the University of Illinois at Urbana-Champaign. 
 
