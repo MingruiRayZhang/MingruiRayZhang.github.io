@@ -16,6 +16,7 @@ nav_order: 2
 
 - [Agentic Agent, Better Agent: Evidence from Agentic AI in Telemarketing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6502379) (with Yu Kan, Wenkang Qiu, Fengwen Chen)\
   <span style="color: #005A9C;">Major Revision at <em style="color: #005A9C;">Management Science</em></span> 
+  <span style="color: #005A9C;">Best Junior Faculty Paper Award - Finalist, <em style="color: #005A9C;">AI in Business Conference 2026</em></span> 
   - Using a quasi-experimental design and nearly 10 million calls from a major Chinese financial platform, we show that LLM-powered voice bots substantially outperform human agents in driving loan initiation, with Retrieval-Augmented Generation further amplifying conversion effectiveness.
 
 - [Cross-Return, Showrooming, and Online-Offline Competition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5696402) (with Lin Hao, Shi Chen, Yong Tan)\
